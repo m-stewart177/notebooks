@@ -8,6 +8,6 @@ dependencies:
   - pip:
     - pandas
     - matplotlib
-    - sklearn
+    - scikit-learn
     - numpy
     - statsmodels
